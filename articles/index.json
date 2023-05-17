@@ -2,7 +2,19 @@
   "articles": [
     {
       "name": "welcome.md",
-      "tags": "#development,#general"
+      "tags": "#development #general"
+    },
+    {
+      "name": "dotnet.md",
+      "tags": "#development #dotnet"
+    },
+    {
+      "name": "angular.md",
+      "tags": "#development #angular"
+    },
+    {
+      "name": "solacetk.md",
+      "tags": "#development #solacetk #gamedev"
     }
   ]
 }
