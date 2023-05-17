@@ -6,15 +6,18 @@
     },
     {
       "name": "dotnet.md",
-      "tags": "#development #dotnet"
+      "tags": "#development #dotnet",
+      "colorKey": "dotnet"
     },
     {
       "name": "angular.md",
-      "tags": "#development #angular"
+      "tags": "#development #angular",
+      "colorKey": "angular"
     },
     {
       "name": "solacetk.md",
-      "tags": "#development #solacetk #gamedev"
+      "tags": "#development #solacetk #gamedev",
+      "colorKey": "solacetk"
     }
   ]
 }
