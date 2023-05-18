@@ -1,4 +1,6 @@
 # Mission
+---
+
 Our mission is **simple**:
 >**S**implify human-bound work.
 
@@ -12,9 +14,11 @@ Our mission is **simple**:
 
 >**E**quip Technical Teams for Modern Application Development.
 
+---
+
 # About
 
-We back up our mission by continuously maintaing our technical edge through open source development and filling gaps where technical problems exist today without easy solutions. While maintaining this edge, we produce and share high-quality software by example on GitHub - taking the opportunity to also expand our public Knowledge Base and share our experiences of being 'on the frontlines' while deeply implementing a software solution or design pattern.
+We back up our mission by continuously maintaing our technical edge through open source development and filling gaps where technical problems exist today without easy solutions. While maintaining this edge, we produce and share high-quality software **by example** on GitHub - taking the opportunity to expand our public Knowledge Base and share our direct experiences from 'on the frontlines' deeply implementing a software solution or design pattern.
 
 Careful modernization of software systems can yield bountiful benefits - the best software systems are the ones that require zero human intervention and everything is transparently automated. We equip organizations and technical teams with modern application development best practices to build better software, assisting from the whiteboard to the keyboard! 
 
