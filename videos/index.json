@@ -2,25 +2,25 @@
   "videos": [
     {
       "name": "Solace - GameDev - 11 - Timeline Testing",
-      "url": "https://youtu.be/NyLVffxqYig?si=MdpQi6BPvdh-FXSC",
+      "url": "https://www.youtube.com/embed/NyLVffxqYig?si=cEM4__Ysnac1Ll5-",
       "tags": "#development #solace",
       "colorKey": "solace"
     },
     {
       "name": "Solace - App/Dev 10 - Tests & Major Enhancements",
-      "url": "https://youtu.be/lwnn5ciT1W8?si=L596z-B7-ZFaR2gq",
+      "url": "https://www.youtube.com/embed/lwnn5ciT1W8?si=LEzSZzv1DOiFCw7n",
       "tags": "#development #solace",
       "colorKey": "solace"
     },
     {
       "name": "Game Dev Sacred Knowledge - Pre-Series Release",
-      "url": "https://youtu.be/HSleOzdWDiw?si=HR-WvwnR7wY8NNM7",
+      "url": "https://www.youtube.com/embed/HSleOzdWDiw?si=X5WC7NXnyaiy58Uo",
       "tags": "#development #gdsk",
       "colorKey": "gdsk"
     },
     {
       "name": "Solace - App/Dev 9 - Migration to MonoGame",
-      "url": "https://youtu.be/ryEOZjvLOww?si=osv9gHuOUTrbNMCY",
+      "url": "https://www.youtube.com/embed/ryEOZjvLOww?si=tyrMBsYH5YVGZn1m",
       "tags": "#development #solace",
       "colorKey": "solace"
     }
